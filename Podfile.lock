@@ -1,0 +1,30 @@
+PODS:
+  - AwesomeTextField (0.1.0)
+  - CardIO (5.4.1)
+  - PayPal-iOS-SDK (2.17.0):
+    - PayPal-iOS-SDK/CardIO (= 2.17.0)
+    - PayPal-iOS-SDK/Core (= 2.17.0)
+  - PayPal-iOS-SDK/CardIO (2.17.0):
+    - CardIO (~> 5.4.1)
+  - PayPal-iOS-SDK/Core (2.17.0)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SideMenu (2.3.2)
+
+DEPENDENCIES:
+  - AwesomeTextField
+  - PayPal-iOS-SDK
+  - SDWebImage (~> 3.8)
+  - SideMenu
+
+SPEC CHECKSUMS:
+  AwesomeTextField: 9539cb8dfc2741abf624f3e58ee6a151e1aaf670
+  CardIO: 56983b39b62f495fc6dae9ad7cf875143df06443
+  PayPal-iOS-SDK: 849321f6214a7187ee4cc684f63fe509df4c4a36
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SideMenu: 3fa07dd05d4bade2b6f9889fb1877e312e1ba319
+
+PODFILE CHECKSUM: 6aea0ee7b9399a1f7c3aaed2ac3ab9c9c0bd5ba5
+
+COCOAPODS: 1.2.1
